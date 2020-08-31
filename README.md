@@ -3,7 +3,7 @@
 En este repositorio se encuentra el código de los programas desarrollados para las simulaciones numéricas del Trabajo de Fin de Grado de 
 Ingeniería Electrónica. Se trata de un conjunto de cuatro programas que implementan el modelo epidemiológico SEIR con diferentes 
 estrategias de vacunación. 
-## Contenidos
+## Contenido
 #### *SEIR_InfVac.py*
 Implementación de la estrategia de vacunación infantil en el modelo epidemiológico SEIR.
 #### *SEIR_InfVac_Prop.py*
